@@ -7,7 +7,7 @@ document.write('<div class="rst-versions" data-toggle="rst-versions" role="note"
    <div class="rst-other-versions">\
      <dl>\
        <dt>Versions</dt>\
-         <dd><a href="https://www.sylabs.io/guides/3.3/user-guide/">v3.2</a></dd>\
+         <dd><a href="https://www.sylabs.io/guides/3.3/user-guide/">v3.3</a></dd>\
      </dl>\
      <dl>\
        <dt>Downloads</dt>\
